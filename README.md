@@ -50,13 +50,13 @@ cat experience.txt
 ```sh
 top -o passions
 ```
-🥾 Hiking
+🥾 Hiking  
 🎟️ Hackathons (Hacking, Organzing, Judging, Sponsoring, etc.)  
-🎿 Skiing
-🪂 Adrenaline Junkie Activities (skydiving, bungee jumping, scuba diving, parasailing, flyboarding, white-water-rafting, etc.) 
-🏃 Running
-📖 Reading
-🧬 Bioinformatics
+🎿 Skiing  
+🪂 Adrenaline Junkie Activities (skydiving, bungee jumping, scuba diving, parasailing, flyboarding, white-water-rafting, etc.)  
+🏃 Running  
+📖 Reading  
+🧬 Bioinformatics  
 
 ```sh
 cd extracurriculars/
