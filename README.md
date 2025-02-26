@@ -50,13 +50,13 @@ cat experience.txt
 ```sh
 top -o passions
 ```
-1. 🥾 Hiking
-1. 🎟️ Hackathons (Hacking, Organzing, Judging, Sponsoring, etc.)  
-2. 🎿 Skiing
-3. 🪂 Adrenaline Junkie Activities (skydiving, bungee jumping, scuba diving, parasailing, flyboarding, white-water-rafting, etc.) 
-4. 🏃 Running
-5. 📖 Reading
-6. 🧬 Bioinformatics
+🥾 Hiking
+🎟️ Hackathons (Hacking, Organzing, Judging, Sponsoring, etc.)  
+🎿 Skiing
+🪂 Adrenaline Junkie Activities (skydiving, bungee jumping, scuba diving, parasailing, flyboarding, white-water-rafting, etc.) 
+🏃 Running
+📖 Reading
+🧬 Bioinformatics
 
 ```sh
 cd extracurriculars/
@@ -68,7 +68,7 @@ ls
 ```sh
 cat education.txt
 ```
-🎓 **2023 - present: Georgia Institute of Technology** - Master’s in Computer Science (MCS) 
+🎓 **2023 - present: Georgia Institute of Technology** - Master’s in Computer Science (MCS)  
 🎓 **2018 - 2023: University of Waterloo** - Honours Computer Science (BCS)
 
 ```sh
