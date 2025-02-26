@@ -54,8 +54,9 @@ top -o passions
 1. 🎟️ Hackathons (Hacking, Organzing, Judging, Sponsoring, etc.)  
 2. 🎿 Skiing
 3. 🪂 Adrenaline Junkie Activities (skydiving, bungee jumping, scuba diving, parasailing, flyboarding, white-water-rafting, etc.) 
-4. 🔗 Blockchain
+4. 🏃 Running
 5. 📖 Reading
+6. 🧬 Bioinformatics
 
 ```sh
 cd extracurriculars/
