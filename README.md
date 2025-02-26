@@ -65,6 +65,7 @@ ls
 📌 **Hack the North** - Logistics Organizer & Backend Lead (2019-2023)  
 📌 **StarterHacks** - Hacker Experience Lead (2019-2023)  
 📌 **JAMHacks** - Founder (2017-2018)
+📌 **Canada-Wide Science Fair (CWSF)** - Exhibitor (2017-2018)
 
 ```sh
 cat education.txt
