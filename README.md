@@ -23,8 +23,9 @@ whoami
 cat experience.txt
 ```
 🛠️ **Warp** - *Software Engineer* (Rust, Go)  
-📍 NYC | Aug 2023 - Present  
-➜ Building core terminal features & AI functionality (Agent Mode).  
+📍 NYC | Aug 2023 - Present   
+➜ Currently working on the Agents team on our AI features. Launched Warp's first Active AI features (Prompt Suggestions & Next Command) - driving up AI engagement by over 85%.   
+➜ Shipped Same Line Prompt (SLP), Warp's top-requested feature by users, which involved reworking core Warp logic (terminal <> shell). Check out our YouTube [video](https://www.youtube.com/watch?v=-eNyi7Zaqxg)/[blog](https://www.warp.dev/blog/why-it-took-us-11-months-to-move-a-single-line-of-text) for a tech deep-dive!   
 
 🛠️ **Ramp** - *Software Engineering Intern* (Python, Elixir)  
 📍 NYC | Oct 2022 - Jan 2023  
