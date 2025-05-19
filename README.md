@@ -54,7 +54,7 @@ top -o passions
 🥾 Hiking  
 🎟️ Hackathons (Hacking, Organizing, Judging, Sponsoring, etc.)  
 🎿 Skiing  
-🪂 Adrenaline Junkie Activities (skydiving, bungee jumping, scuba diving, parasailing, flyboarding, white-water-rafting, etc.)  
+🪂 Adrenaline Junkie Activities (skydiving, bungee jumping, scuba diving, parasailing, flyboarding, whitewater rafting, etc.)  
 🏃 Running  
 📖 Reading  
 🧬 Bioinformatics  
