@@ -17,13 +17,13 @@ whoami
 ```
 👋 **Advait Maybhate**  
 🚀 **Software Engineer @ Warp**  
-📍 NYC
+📍 SF
 
 ```sh
 cat experience.txt
 ```
 🛠️ **Warp** - *Software Engineer* (Rust, Go)  
-📍 NYC | Aug 2023 - Present   
+📍 NYC, SF | Aug 2023 - Present   
 ➜ Building core terminal features & AI functionality (Agent Mode). 
 
 🛠️ **Ramp** - *Software Engineering Intern* (Python, Elixir)  
