@@ -17,7 +17,7 @@ whoami
 ```
 👋 **Advait Maybhate**  
 🚀 **Software Engineer @ Warp**  
-📍 SF
+📍 San Francisco
 
 ```sh
 cat experience.txt
